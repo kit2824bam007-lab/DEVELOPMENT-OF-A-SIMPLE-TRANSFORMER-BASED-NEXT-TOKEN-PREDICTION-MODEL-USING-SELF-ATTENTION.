@@ -1,0 +1,16 @@
+# Local presentation and viva preparation notes (private)
+VIVA_AND_REVIEWER_PREPARATION.md
+*viva*
+*reviewer*
+
+# Checkpoints & weights
+*.weights.h5
+*.h5
+*.pt
+*.pth
+
+# Python & Jupyter cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
